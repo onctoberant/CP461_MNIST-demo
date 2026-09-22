@@ -1,0 +1,3 @@
+Google sheet link: https://docs.google.com/spreadsheets/d/1PWJOlmxc5LRpIggM2renyc7vRb3mZlPenVN75mx3FME/edit?usp=sharing
+GitHub Repo link: https://github.com/onctoberant/CP461_MNIST-demo.git
+Your MNIST App: https://cp461mnist-demo-uhx7uvl8wkekruzwebkyhw.streamlit.app/
